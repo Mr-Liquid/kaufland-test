@@ -1,0 +1,20 @@
+### Common
+public/css/app.css
+public/css/portal.css
+
+### Node
+node_modules
+npm-debug.log
+
+### Eclipse/Aptana
+tmp
+.settings
+.project
+
+### IDEA/WebStorm
+.idea
+
+### TextMate
+*.tmproj
+*.tmproject
+tmtags
