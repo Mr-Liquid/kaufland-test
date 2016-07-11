@@ -11,5 +11,5 @@ npm install
 
 ##### Run app :
 ```
-Open terminal in root directory and write node 
+Open terminal in root directory and write: node bin/www
 
