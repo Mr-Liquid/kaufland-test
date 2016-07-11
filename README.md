@@ -1,6 +1,15 @@
 # kaufland-test
 
-# How to run test?
+# How to run app
 
-1) In root directory npm install 
-2) Open terminal in root directory and write node bin/www 
+Clone repo and do next commands in project's folder
+
+##### Install `npm packages`:
+```
+npm install
+```
+
+##### Run app :
+```
+Open terminal in root directory and write node 
+
